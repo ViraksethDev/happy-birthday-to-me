@@ -1,0 +1,6 @@
+{
+  "name": "Happy Birthday to Me! Celebration Experience",
+  "description": "An interactive, luxury birthday celebration web experience featuring motion design, ambient soundscapes, birthday cake interactions, and personalized celebratory moments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
